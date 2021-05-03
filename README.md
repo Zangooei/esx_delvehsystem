@@ -2,8 +2,10 @@
 
 New DvAll System With Timer And Announcer
 
-[ + ] FULL OPTIMIZE
+[ + ] FULL OPTIMIZE 
+
 [ + ] PERMISSION LEVEL
+
 [ + ] ANNOUNCER IN CHAT WITH GetPlayerName
 
 
