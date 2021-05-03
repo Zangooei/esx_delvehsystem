@@ -10,5 +10,5 @@ New DvAll System With Timer And Announcer
 
 
 # Discord Server
-<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32263160/13a8eb506b9546ecf8dcf2c97b47429dcdb2e4e8.png"/>
-<p align="center">Please Donate To Bitcoin Address: <b>1AEbR1utjaYu3SGtBKZCLJMRR5RS7Bp7eE</b></p>
+<img src="https://www.pokemongo.shop/wp-content/uploads/2020/11/discord.png"/>
+<p align="center">Join OVERWOLF Community https://discord.gg/hUNCdNhtHD </b></p>
