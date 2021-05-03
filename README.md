@@ -1,4 +1,4 @@
-# Fz DvAll SySTEM
+# Fz DvAll System
 
 New DvAll System With Timer And Announcer
 
@@ -9,6 +9,6 @@ New DvAll System With Timer And Announcer
 [ + ] ANNOUNCER IN CHAT WITH GetPlayerName
 
 
-# Donations
-<img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+# Discord Server
+<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32263160/13a8eb506b9546ecf8dcf2c97b47429dcdb2e4e8.png"/>
 <p align="center">Please Donate To Bitcoin Address: <b>1AEbR1utjaYu3SGtBKZCLJMRR5RS7Bp7eE</b></p>
