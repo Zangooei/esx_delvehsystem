@@ -2,11 +2,15 @@
 
 New DvAll System With Timer And Announcer
 
+[ + ] ESX
+
 [ + ] FULL OPTIMIZE 
 
 [ + ] PERMISSION LEVEL
 
 [ + ] ANNOUNCER IN CHAT WITH GetPlayerName
+
+[ + ] Without AnyBug Or Glitch
 
 
 # Discord Server
