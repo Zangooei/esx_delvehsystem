@@ -1,6 +1,6 @@
-# Fz DvAll System
+# ESX Delete Vehicles System
 
-New DvAll System With Timer And Announcer
+New Delete All Vehicle System With Timer And Announcer
 
 [ + ] ESX
 
@@ -15,4 +15,4 @@ New DvAll System With Timer And Announcer
 
 # Discord Server
 <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32263160/13a8eb506b9546ecf8dcf2c97b47429dcdb2e4e8.png"/>
-<p align="center">Join OVERWOLF Community https://discord.gg/hUNCdNhtHD </b></p>
+<p align="center">Join 2002 Community https://discord.gg/Pd9YeEvCbK </b></p>
